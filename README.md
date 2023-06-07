@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://danylo-dobrovolskyi.github.io/todo_app/)
+I have developed a Checklist Application using React, which allows users to add and remove tasks and mark them as completed. This project was built using modern web technologies, including React, SASS, JSX, and advanced hooks.
+
+Here is the [DEMOLINK](https://danylo-dobrovolskyi.github.io/todo_app/)
