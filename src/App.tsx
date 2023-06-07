@@ -209,6 +209,7 @@ export const App: React.FC = () => {
       <h1 className="todoapp__title">todos</h1>
       <div className="todoapp__content">
         <header className="todoapp__header">
+          {/*  eslint-disable-next-line jsx-a11y/control-has-associated-label */}
           <button type="button" className="todoapp__toggle-all active" />
           <AddTodoForm
             onError={handleSettingError}

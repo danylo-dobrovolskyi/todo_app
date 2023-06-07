@@ -28,6 +28,7 @@ export const Error: React.FC<Props> = ({
       },
     )}
     >
+      {/*  eslint-disable-next-line jsx-a11y/control-has-associated-label */}
       <button
         type="button"
         className="delete"
